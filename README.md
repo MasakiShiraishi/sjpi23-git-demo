@@ -1,2 +1,2 @@
 # sjpi23-git-demo
-how tou use git
+Demo how to use git and github and Vs Code.
